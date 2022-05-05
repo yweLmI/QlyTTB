@@ -87,5 +87,7 @@ int main() {
 	printf("Doan van ban sau khi da chuan hoa la:\n");
 	Chuanhoa(s, length);
 	printf("%s\n", s);
+	//test
 	return 0;
+	
 }
